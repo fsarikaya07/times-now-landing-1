@@ -27,6 +27,7 @@
 }
 .main-card-1 {
   padding: 50px;
+  margin: auto;
 }
 .main-card-1 h1 {
   font-size: 2.5rem;
@@ -51,6 +52,7 @@
 .right-card-1 {
   width: 50%;
   background-color: rgb(60, 197, 216);
+  
 }
 .nav-bar-2 {
   padding: 20px;
@@ -72,6 +74,7 @@
     width: 50%;
     font-size: 1.5rem;
     padding: 20px;
+    margin: auto;
     
 }
 .left-card-2 h2{
@@ -139,6 +142,7 @@
 }
 .left-card-4{
     width: 50%;
+    margin: auto;
 
 }
 .right-card-4{
