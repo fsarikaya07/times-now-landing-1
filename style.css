@@ -35,7 +35,11 @@
   color: white;
   background-color: rgb(19, 19, 124);
   margin: 10px;
+  text-decoration: none;
 
+}
+.info-1{
+    display: flex;
 }
 .right-card-1 {
   width: 50%;
@@ -60,6 +64,7 @@
 .left-card-2{ 
     width: 50%;
     font-size: 1.5rem;
+    padding: 20px;
     
 }
 .imges{
@@ -68,10 +73,12 @@
 }
 .left-card-2 img{
     width: 40px;
+   
 }
 
 .right-card-2{
     width: 50%;
+    padding: 20px;
 }
 .container-3{
     height: 40vh;
@@ -97,8 +104,28 @@
 }
 .left-card-4{
     width: 50%;
+
 }
 .right-card-4{
     width: 50%;
     margin: auto;
+}
+.table{
+    padding: 20px;
+
+}
+.table th,td {
+    padding: 10px;
+}
+.input-area {
+    position: relative;
+}
+.input-area input{
+    width: 80%;
+    padding: 15px;
+}
+.input-area a{
+    position: absolute;
+    top: -5px;
+    right: 100px;
 }
